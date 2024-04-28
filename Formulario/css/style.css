@@ -1,0 +1,107 @@
+
+/* Import fonts */
+@import url(http://fonts.googleapis.com/css?family=Ruda:400,700,900);
+
+/* BASIC THEME CONFIGURATION */
+body {
+    color: #797979;
+	background: #797979;
+    font-family: 'Ruda', sans-serif;
+    padding: 0px !important;
+    margin: 0px !important;
+    font-size:13px;
+}
+
+
+/*LOGIN CONFIGURATION PAGE*/
+.form-login {
+	max-width: 400px;
+	margin: 100px auto 0;
+	background: #fff;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.form-login h2.form-login-heading {
+	margin: 0;
+	padding: 25px 20px;
+	text-align: center;
+	background: #4ecdc4;
+	border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px 5px 0 0;
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+ .spanlogin{
+    display: flex;
+    align-items: center;
+    
+ }
+
+ .form-control{
+    padding: 10px;
+    width: 300px;
+    
+ }
+
+.login-wrap .texto{
+	
+	align-items: center;
+	
+   
+}
+.texto{
+    
+  
+    align-items: center;
+}
+.login-wrap .registration {
+	text-align: center;
+}
+.login-social-link {
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.caja{
+    padding: 10px;
+}
+
+.button{
+    background-color: #4ecdc4;
+    border-radius: 25px;
+    align-items: center;
+    padding: 10px;
+}
+
+.container1{
+	
+	align-items: center;
+	white-space: 40px;
+	padding-left: 30px;
+    
+}
+
+.con1{
+	
+	height: 20px;
+	transform: translateX(-40px);
+	cursor: pointer;
+	align-items:center;
+}
+
+.alert{
+	text-align: center;
+	color: red;
+}
+
+
+
+
+
+
+
+
+
